@@ -1,6 +1,11 @@
 
 # Student Evaluation Expert System 🎓
 
+<p align="center">
+      <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Library-OpenTK-000000?style=for-the-badge&logo=opengl&logoColor=blue" />
+</p>
+
 A Python-based Rule-Based Expert System designed to evaluate student academic conditions and determine their academic support status using predefined knowledge, inference rules, and uncertainty factors.
 
 This project is a Python recreation of an existing ASP-based expert system back on my college days. Instead of relying on ASP, the system implements its reasoning mechanisms using Python, allowing the evaluation process to run through a desktop application with an Excel-based knowledge base.
