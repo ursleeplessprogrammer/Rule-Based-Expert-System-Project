@@ -3,6 +3,8 @@
 
 <p align="center">
       <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <!-- Visual Studio Code -->
+      <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 A Python-based Rule-Based Expert System designed to evaluate student academic conditions and determine their academic support status using predefined knowledge, inference rules, and uncertainty factors.
